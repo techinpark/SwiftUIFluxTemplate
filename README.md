@@ -1,4 +1,6 @@
-<center><img src="./.github/images/main.png"></center>
+<p align="center">
+    <img src="./.github/images/main.png">
+</p>
 
 # SwiftUIFluxTemplate
 [SwiftUIFlux](https://github.com/Dimillian/SwiftUIFlux) architecture module generator using Xcode template
